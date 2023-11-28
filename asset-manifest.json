@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Barbozahj/Barbozahj-Clase5_Contador.io/static/css/main.e6c13ad2.css",
+    "main.js": "/Barbozahj/Barbozahj-Clase5_Contador.io/static/js/main.432d0d9b.js",
+    "static/js/787.232c6138.chunk.js": "/Barbozahj/Barbozahj-Clase5_Contador.io/static/js/787.232c6138.chunk.js",
+    "index.html": "/Barbozahj/Barbozahj-Clase5_Contador.io/index.html",
+    "main.e6c13ad2.css.map": "/Barbozahj/Barbozahj-Clase5_Contador.io/static/css/main.e6c13ad2.css.map",
+    "main.432d0d9b.js.map": "/Barbozahj/Barbozahj-Clase5_Contador.io/static/js/main.432d0d9b.js.map",
+    "787.232c6138.chunk.js.map": "/Barbozahj/Barbozahj-Clase5_Contador.io/static/js/787.232c6138.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.432d0d9b.js"
+  ]
+}
